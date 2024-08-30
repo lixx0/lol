@@ -1,2 +1,1 @@
-# lol
-nothing
+#直接用
